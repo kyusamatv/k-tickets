@@ -25,17 +25,8 @@ k!startapps
 Supports Multiple Channels
 </li>
 <li>
-Custom Emded Titles
+Custom Emded Titles , Description & Color
 </li>
-<li>
-Custom Embed Descriptions
-</li>
-<li>
-Custom Embed Color Option
-</li>
-<li>
-Easy to use!
-</li>
-</ul>
+
 
 
