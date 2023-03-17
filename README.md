@@ -15,9 +15,8 @@ And you should be ready to start the bot!
 
 ## Setting the Reaction Embed!
 
-To show the embed just type :
 ```
-(your Prefix)startapps
+k!startapps
 ```
 
 ## Features!
