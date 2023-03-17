@@ -15,8 +15,9 @@ And you should be ready to start the bot!
 
 ## Setting the Reaction Embed!
 
+To show the embed just type :
 ```
-k!startapps
+(your Prefix)startapps
 ```
 
 ## Features!
@@ -25,8 +26,17 @@ k!startapps
 Supports Multiple Channels
 </li>
 <li>
-Custom Emded Titles , Description & Color
+Custom Emded Titles
 </li>
-
+<li>
+Custom Embed Descriptions
+</li>
+<li>
+Custom Embed Color Option
+</li>
+<li>
+Easy to use!
+</li>
+</ul>
 
 

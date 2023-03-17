@@ -1,0 +1,15 @@
+{
+  "name": "k-tickets",
+  "version": "1.1",
+  "description": "Simple discord ticket bot but its open source",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "kyuisdone",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}

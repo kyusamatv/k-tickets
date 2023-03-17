@@ -1,0 +1,12 @@
+{
+    "token": "TOKEN",
+    "prefix": "k!",
+    "owner": "OWNER ID",
+    "Channelrole":"VIEWING ROLE",
+    "signup_color": "SIGNUP COLOR",
+    "signup_title": "SIGNUP TITLE",
+    "answer_title": "ANSWER",
+    "answer_color": "ANSWER COLOR",
+    "answer_description": "Enter Answer Embed Description. Use \n for breaking lines!",
+    "one_app": false 
+}
